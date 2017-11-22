@@ -1,1 +1,1 @@
-worker: python TgBot.py
+web: python TgBot.py -b 0.0.0.0:$PORT
