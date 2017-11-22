@@ -1,9 +1,10 @@
 import telebot
 import random
-from os import environ
+import os
 from constants import *
 
 bot = telebot.TeleBot(token)
+port = int(os.environ.get("PORT", 5000))
 print(bot.get_me())
 
 def log(message,answer):
@@ -50,5 +51,4 @@ def handle_text(message):
 
 
 if __name__ == '__main__':
-    application.listen(environ["PORT"])
     bot.polling(none_stop=True)
