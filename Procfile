@@ -1,1 +1,1 @@
-web: python TgBot.py --port=$PORT
+worker: python TgBot.py
