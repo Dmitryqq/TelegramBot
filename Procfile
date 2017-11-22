@@ -1,1 +1,1 @@
-web: python TgBot.py -Dserver.port=$PORT
+web: python TgBot.py
