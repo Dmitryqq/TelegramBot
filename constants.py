@@ -1,5 +1,5 @@
 import telebot
-token="505855009:AAHl1X8N-M5NON6hC5O2AhzHTeIloXT_1Vo"
+token=""
 stickers=["CAADAgADBwADkp8eEZkjorhngn_1Ag","CAADAgADCAADkp8eEY5cYFyLAexpAg","CAADAgADCQADkp8eEb5aKAQp7pnXAg",
           "CAADAgADCgADkp8eEYoo_BiL_vEXAg","CAADAgADCwADkp8eESdd89SS9IWZAg","CAADAgADDAADkp8eEaKdc33Wb-TZAg",
           "CAADAgADDQADkp8eERQhue01ZK9BAg","CAADAgADDgADkp8eEYRU2wpnubJjAg","CAADAgADDwADkp8eEcuzwTti6iZ7Ag",
