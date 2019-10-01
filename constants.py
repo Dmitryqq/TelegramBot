@@ -1,7 +1,2 @@
 import telebot
 token=""
-stickers=["CAADAgADBwADkp8eEZkjorhngn_1Ag","CAADAgADCAADkp8eEY5cYFyLAexpAg","CAADAgADCQADkp8eEb5aKAQp7pnXAg",
-          "CAADAgADCgADkp8eEYoo_BiL_vEXAg","CAADAgADCwADkp8eESdd89SS9IWZAg","CAADAgADDAADkp8eEaKdc33Wb-TZAg",
-          "CAADAgADDQADkp8eERQhue01ZK9BAg","CAADAgADDgADkp8eEYRU2wpnubJjAg","CAADAgADDwADkp8eEcuzwTti6iZ7Ag",
-          "CAADAgADBgADkp8eEcM4hko9d5vpAg","CAADAgADBQADkp8eEStV7hPG5EzQAg","CAADAgADBAADkp8eEavc7j2rScUkAg",
-          "CAADAgADAwADkp8eEXErN798EUMfAg","CAADAgADAgADkp8eETUZdc2pKL8bAg","CAADAgADAQADkp8eEQpfUwLsF-b2Ag"]

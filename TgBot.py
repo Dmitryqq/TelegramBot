@@ -22,7 +22,7 @@ def handle_text(message):
 
 @bot.message_handler(commands=['start'])
 def handle_text(message):
-    answer = "Hello! You are welcome!"
+    answer = "Я работаю!"
     log(message, answer)
     bot.send_message(message.chat.id, answer)
 
