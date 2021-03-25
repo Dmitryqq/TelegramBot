@@ -37,7 +37,7 @@ pyTelegramBotAPI==3.4.2
 pytest==3.2.2
 python-dateutil==1.5
 pytz==2017.3
-PyYAML==3.12
+PyYAML==5.4
 query-phenomizer==1.2
 requests==2.18.4
 service-identity==17.0.0
